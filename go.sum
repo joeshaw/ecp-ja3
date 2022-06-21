@@ -1,0 +1,6 @@
+github.com/fastly/compute-sdk-go v0.0.0-20220712091617-3cb4b1ae5002 h1:qqNgoR+UjwFXhhkkTFMhgK+8oaL8lrRnqqnh8wOAbq8=
+github.com/fastly/compute-sdk-go v0.0.0-20220712091617-3cb4b1ae5002/go.mod h1:ozHiGq174RN0G58HVTieP0DHkPQ3ShgSFSecTVHEFwI=
+golang.org/x/crypto v0.0.0-20220518034528-6f7dac969898 h1:SLP7Q4Di66FONjDJbCYrCRrh97focO6sLogHO7/g8F0=
+golang.org/x/crypto v0.0.0-20220518034528-6f7dac969898/go.mod h1:IxCIyHEi3zRg3s0A5j5BB6A9Jmi73HwBIUl50j+osU4=
+src.agwa.name/tlshacks v0.0.0-20220518131152-d2c6f4e2b780 h1:iMW3HbLV3/OuK02FDW8qNC13i5o1uK079MGLH404rnQ=
+src.agwa.name/tlshacks v0.0.0-20220518131152-d2c6f4e2b780/go.mod h1:NT4HI59yJusF5Il4/DlC8F5+mfylE4CbRVwdoEi6MF8=

@@ -1,0 +1,12 @@
+# This file describes a Fastly Compute@Edge package. To learn more visit:
+# https://developer.fastly.com/reference/fastly-toml/
+
+authors = ["joe@joeshaw.org"]
+description = "Display JA3 fingerprints"
+language = "other"
+manifest_version = 2
+name = "ecp-ja3"
+service_id = "5nw3CRM7gVh7dAKiGRw853"
+
+[scripts]
+  build = "mkdir -p bin && tinygo build -opt 2 -target=wasi -wasm-abi=generic -gc=leaking -o bin/main.wasm . && fastly compute pack --wasm-binary bin/main.wasm"
