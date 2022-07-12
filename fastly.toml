@@ -3,7 +3,7 @@
 
 authors = ["joe@joeshaw.org"]
 description = "Display JA3 fingerprints"
-language = "other"
+language = "other"  # Update to "go" when it's fully supported
 manifest_version = 2
 name = "ecp-ja3"
 service_id = "5nw3CRM7gVh7dAKiGRw853"
